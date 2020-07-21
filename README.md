@@ -12,3 +12,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a quizzer & Rubik's lover :D
 - 🏃 Hobbies: Skectching and playing CSGO 🎮  
+- 🌱 I’m currently learning Docker 🐋
+
+Feel free to reach me // {%Backup of - @Neilblaze}
