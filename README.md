@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=x3nosiz&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=x3nosiz&show_icons=true&theme=tokyonight">
 
 [![x3nosiz](https://img.shields.io/static/v1?label=x3nosiz&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://github.com/x3nosiz/)
 [![neilzxd](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/neilzxd/)
