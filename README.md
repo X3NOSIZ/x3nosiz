@@ -14,4 +14,4 @@
 - 🏃 Hobbies: Skectching and playing CSGO 🎮  
 - 🌱 I’m currently learning Docker 🐋
 
-Feel free to reach me // {%Backup of - @Neilblaze}
+Feel free to reach me // {%Backup of - @{[Neilblaze](https://github.com/neilblaze)}
