@@ -15,3 +15,8 @@
 - 🌱 I’m currently learning Docker 🐋
 
 Feel free to reach me // {%Backup of - @{[Neilblaze](https://github.com/neilblaze)}
+
+<p align="center">
+<a href="https://github.com/x3nosiz">
+<img width="660" src="https://github-profile-trophy.vercel.app/?username=x3nosiz&theme=onedark" >
+</a></p>
